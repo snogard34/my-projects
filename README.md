@@ -1,2 +1,2 @@
 # my-projects
-Mostly machine learning
+Mostly machine learning, educational purposes
